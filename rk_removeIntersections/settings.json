@@ -1,0 +1,14 @@
+{
+    "ConnectionStringMongo": "mongodb://192.168.57.102:27017", 
+    "ConnectionStringPostgre": {
+        "URL": "jdbc:postgresql://192.168.57.102/test",
+        "user": "postgres",
+        "password": "samis"
+    },
+    "collection": "h_results_test1",
+    "bufferSize": 1.0E-5,
+    "iterationsCount": 25,
+    "simplifyPrecision": 1.0E-15,
+    "loopPrecision": 1.0E-15,
+    "sliverArea": 1.0E-3
+  }
